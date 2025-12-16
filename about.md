@@ -5,7 +5,7 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+I’m a senior Bioengineering student at Temple University with a cellular concentration.
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+- **Current role:** Student
+- **Interests:** Spatial Anlayses, Biomaterials, Public Health, Medicine, & Epidemiology
