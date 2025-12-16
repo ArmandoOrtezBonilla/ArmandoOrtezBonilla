@@ -1,6 +1,9 @@
 ---
 title: Final Lab Report
 ---
+<p style="text-align: justify;">
+
+</p>
 
 # Final Lab Report  
 *Fundamentals of Geographic Information Systems*
