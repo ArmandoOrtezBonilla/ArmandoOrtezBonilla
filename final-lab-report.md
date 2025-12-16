@@ -65,4 +65,4 @@ By filtering schools with enrollments greater than 1,200 students and examining 
 - Select by attribute  
 - Select by location  
 <br><br>
-Thank you ! This course introduced me to Geographic Information Systems in a way that was both challenging and rewarding, and it expanded how I think about data, space, and real-world problem solving. I do appreciate the opportunity to develop these skills and apply it accorss different contexts. 
+Thank you ! This course introduced me to Geographic Information Systems in a way that was both challenging and rewarding, and it expanded how I think about data, space, and real-world problem solving. I do appreciate the opportunity to develop these skills and apply it across different contexts. 
