@@ -7,7 +7,7 @@ nav_order: 1
 **Bioengineering (B.S.) · Applied Epidemiology (Minor)**  
 Temple University
 
-Hi — I’m Armando Ortez. I’m a bioengineering student focused on translational research at the intersection of **biomaterials, mechanobiology, and public health**. I’m building skills in experimental design, data analysis, and scientific communication as I prepare for a career in **medicine and biomedical research**.
+Hi! I’m Armando Ortez. I’m a bioengineering student focused on translational research at the intersection of biomaterials,mechanobiology and public health. I continue to build skills, in data analysis, scientific communication and translation, as I prepare for a career in medicine, and biomedical research.
 
 I am currently enrolled in **Fundamentals of Geographic Information Systems (GIS)**, where I am developing skills in spatial analysis, mapping, and data visualization. This website was created as part of that course to document and showcase applied GIS work alongside my broader academic and research efforts.
 
