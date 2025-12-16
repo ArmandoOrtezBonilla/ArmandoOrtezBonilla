@@ -16,7 +16,8 @@ This page represents my work over the course of the semester, highlighting three
 
 
 ### Narrative 
-(Write 4–6 sentences explaining the problem, what the map shows, and why it matters.)
+
+The map shown in Figure 1 depcits Pennslyvania voter tunrout and the percentage concentration of voters by politcal party, based on which party was leading in each distrcit. The primary purpose of the map is to illustrate that politcal parties are geograpically loclaized and vary across the state, with differing levels of concentration and vary across the state, with differing levels of concentration by district. Additionally, the map highlights how poltical idealogies are favored differently across regions. Importantly, the map should not be interpreted as potrayting poltical homogeniety within distrcits. This aligns with the concept of the ecological fallacy, in which a single dominant narrative is incorrectly used to judge all individuals within an area. Instead, the intepretation should acknowledge the muiltiple social and political dyanmics that exist within each district. This perspective helps shifts mindsets away from viewing areas as uniformaly Democratic or Republic. 
 
 ### GIS tools and skills used
 - Choropleth mapping
