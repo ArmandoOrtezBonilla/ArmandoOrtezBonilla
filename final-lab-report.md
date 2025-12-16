@@ -31,7 +31,7 @@ Importantly, this map should not be interpreted as portraying political homogene
 
 <img src="{{ site.baseurl }}/assets/images/map2.jpg" width="900">
 
-Figure 2. Homicide density by police district in Chicago with individual homicide locations overlaid.
+
 
 ### Narrative
 
@@ -51,7 +51,6 @@ This spatial visualization challenges broad political narratives that portray Ch
 
 <img src="{{ site.baseurl }}/assets/images/map3.jpg" width="900">
 
-Figure 3. Philadelphia School District schools with enrollments over 1,200 students located within 0.1 miles of the city bike network.
 
 ### Narrative
 
