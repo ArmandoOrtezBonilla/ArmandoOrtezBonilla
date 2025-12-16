@@ -13,7 +13,7 @@ This page represents my work over the course of the semester, highlighting three
 ---
 
 ## Map 1 — 2020 Presidential Election Results (Pennsylvania)
-<img src="{{ site.baseurl }}/assets/images/map1.jpg" width="1000">
+https://github.com/ArmandoOrtezBonilla/ArmandoOrtezBonilla/tree/main/assets/images/assets/images
 
 <p><em><strong>Figure 1.</strong> 2020 Presidential Election Results by County in Pennsylvania.</em></p>
 
