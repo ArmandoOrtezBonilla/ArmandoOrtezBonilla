@@ -40,6 +40,7 @@ Figure 2 illustrates the spatial distribution of homicide density across Chicago
 
 This spatial visualization challenges broad political narratives that portray Chicago as uniformly dangerous. By visualizing homicide density per square mile, the map demonstrates that crime is localized and that citywide generalizations obscure meaningful spatial differences between districts. The map reinforces the importance of neighborhood-scale analysis when evaluating urban crime patterns.
 
+<br><br>
 ### GIS Tools and Skills Used
 - Spatial join  
 - Density calculations  
@@ -59,7 +60,7 @@ This spatial visualization challenges broad political narratives that portray Ch
 Figure 3 demonstrates how geographic data can be used to identify neighborhoods in Philadelphia that contain large public schools which are well connected to the city’s bike network. To address this problem, school enrollment data and bike network data were analyzed together to move beyond a tabular format and better understand how location influences accessibility.
 
 By filtering schools with enrollments greater than 1,200 students and examining their proximity to bike infrastructure, the analysis revealed that only a small number of schools meet both criteria. Mapping these results showed that well-connected, high-enrollment schools are distributed across several neighborhoods rather than clustered in a single area. This spatial analysis supports informed decision-making related to transportation access, urban planning, and school commuting options. The visualization helps education leaders, families, planners, and policymakers better understand how biking infrastructure interacts with school catchment areas.
-
+<br><br>
 ### GIS Tools and Skills Used
 - Select by attribute  
 - Select by location  
