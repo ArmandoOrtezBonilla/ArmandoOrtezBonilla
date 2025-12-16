@@ -16,7 +16,7 @@ This page represents my work over the course of the semester, highlighting three
 <img src="{{ site.baseurl }}/assets/images/map1.jpg" width="900">
 
 
-<p><em><strong>Figure 1.</strong> 2020 Presidential Election Results by County in Pennsylvania.</em></p>
+
 
 ### Story
 (Write 4–6 sentences explaining the problem, what the map shows, and why it matters.)
