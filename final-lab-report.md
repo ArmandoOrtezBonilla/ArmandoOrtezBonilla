@@ -26,6 +26,7 @@ Importantly, this map should not be interpreted as portraying political homogene
 - Classification and symbology  
 
 ---
+<br><br>
 
 ## Map 2 — Homicide Density by Police District (Chicago)
 
@@ -46,6 +47,7 @@ This spatial visualization challenges broad political narratives that portray Ch
 - Map design principles  
 
 ---
+<br><br>
 
 ## Map 3 — Philadelphia Schools and Bike Network
 
