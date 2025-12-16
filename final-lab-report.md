@@ -5,8 +5,8 @@ title: Final Lab Report
 # Final Lab Report  
 *Fundamentals of Geographic Information Systems*
 
-This page presents my final lab report for the course, highlighting three maps that demonstrate my ability to solve spatial problems using a GIS framework.
 
+This page represents my work over the course of the semester, highlighting three maps that demonstrate my ability to solve problems and create narratives using Geographic Information Systems analysis, software, and framework. This semester, I primarily used ARCGIS Pro, a software in the class that essentially creates these visual maps. At the beginning of the course, I did not think I would use this, but at the end of the semester, I had used maps of Chronic Kidney Disease for my problem statements and relevance to society for senior design. Additionally, it can be used for multiple applications that are not solely based on health, but also supply chain, housing costs, where to live, and where to start a family. These are some examples, but there is more to the field of geographic information systems. Overall, I did enjoy the use of the maps. I wish I could have been more present in the processes instead of rushing, but overall, it was a great use for other applications, I never even thought of. As an engineering student, this adds depth to my skills as a prospective graduate student or employee. 
 ---
 
 ## Map 1 — 2020 Presidential Election Results (Pennsylvania)
