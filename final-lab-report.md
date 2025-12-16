@@ -30,7 +30,7 @@ This page represents my work over the course of the semester, highlighting three
 
 ## Map 2 — Homicide Density by Police District (Chicago)
 
-<img src="{{ site.baseurl }}/assets/images/map2.jpg" width="900">
+
 
 <p><em><strong>Figure 2.</strong> Homicide density by police district in Chicago with individual homicide locations overlaid.</em></p>
 
@@ -47,7 +47,7 @@ This page represents my work over the course of the semester, highlighting three
 
 ## Map 3 — Philadelphia Schools and Bike Network
 
-<img src="{{ site.baseurl }}/assets/images/map3.jpg" width="900">
+
 
 <p><em><strong>Figure 3.</strong> Philadelphia School District schools with enrollments over 1,200 students located within 0.1 miles of the city bike network.</em></p>
 
